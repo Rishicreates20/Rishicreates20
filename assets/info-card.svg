@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="614" height="546" viewBox="0 0 614 546" role="img" aria-label="Profile info card">
+<defs><style>text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:15px;dominant-baseline:middle;}.k{fill:#7ee787;font-weight:700;} .v{fill:#c9d1d9;} .d{fill:#8b949e;}</style></defs>
+<rect x="1" y="1" width="612" height="544" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 h588 a12 12 0 0 1 12 12 v21 h-612 z" fill="#161b22"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="66" cy="17" r="6" fill="#27c93f"/>
+<text x="307" y="18" text-anchor="middle" class="d" font-size="13">rishikesh@github: ~</text>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.25s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="69" xml:space="preserve"><tspan fill="#39d353" font-weight="700">rishikesh@github</tspan><tspan class="d"> ~ </tspan><tspan fill="#26a641" font-weight="700">$</tspan><tspan class="v"> neofetch</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.39s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="95" class="d" xml:space="preserve">--------------------------------------------------------------</text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="0.53s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.53s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="121"><tspan class="k">Name</tspan></text><text x="118" y="121"><tspan class="d">: </tspan><tspan class="v">Rishikesh Sarangi</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="0.67s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.67s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="147"><tspan class="k">Role</tspan></text><text x="118" y="147"><tspan class="d">: </tspan><tspan class="v">Backend &amp; Systems Software Engineer</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.81s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="173"><tspan class="k">Grad</tspan></text><text x="118" y="173"><tspan class="d">: </tspan><tspan class="v">B.Tech CSE - KIIT University &#x27;26</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.95s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="199"><tspan class="k">Location</tspan></text><text x="118" y="199"><tspan class="d">: </tspan><tspan class="v">Bengaluru, India - open to relocate</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.09s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.09s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="225"><tspan class="k">Focus</tspan></text><text x="118" y="225"><tspan class="d">: </tspan><tspan class="v">Databases - search - distributed systems</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.23s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.23s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="251"><tspan class="k">Languages</tspan></text><text x="118" y="251"><tspan class="d">: </tspan><tspan class="v">Java - Python - C++ - TypeScript - SQL</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.37s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.37s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="277"><tspan class="k">Backend</tspan></text><text x="118" y="277"><tspan class="d">: </tspan><tspan class="v">FastAPI - Node.js - Express - REST - WS/SSE</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.51s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.51s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="303"><tspan class="k">Data</tspan></text><text x="118" y="303"><tspan class="d">: </tspan><tspan class="v">PostgreSQL - Redis - MongoDB - SQLite</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.65s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="329"><tspan class="k">DevOps</tspan></text><text x="118" y="329"><tspan class="d">: </tspan><tspan class="v">Docker - Linux - AWS - Azure - CI/CD - Git</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.79s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.79s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="355"><tspan class="k">ML</tspan></text><text x="118" y="355"><tspan class="d">: </tspan><tspan class="v">TensorFlow - Keras - DeepEval - LangSmith</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="1.93s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.93s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="381"><tspan class="k">Builds</tspan></text><text x="118" y="381"><tspan class="d">: </tspan><tspan class="v">RDBMS engine - Redis clone - Veilo search</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="2.07s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.07s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="407"><tspan class="k">Creds</tspan></text><text x="118" y="407"><tspan class="d">: </tspan><tspan class="v">IEEE-published - LFCS - 300+ DSA solved</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="2.21s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.21s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="433"><tspan class="k">Impact</tspan></text><text x="118" y="433"><tspan class="d">: </tspan><tspan class="v">-25% API latency on live prod pipelines</tspan></text>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.42s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.35s" dur="0.42s" calcMode="spline" keySplines="0.4 0 0.2 1" fill="freeze"/>
+<text x="22" y="459"><tspan class="k">Links</tspan></text><text x="118" y="459"><tspan class="d">: </tspan><tspan class="v">github/Rishicreates20 - /in/rishikeshsarangi</tspan></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.85s" dur="0.3s" fill="freeze"/><text x="22" y="493" xml:space="preserve"><tspan fill="#39d353" font-weight="700">rishikesh@github</tspan><tspan class="d"> ~ </tspan><tspan fill="#26a641" font-weight="700">$</tspan><tspan class="v"> </tspan></text><rect x="202" y="484" width="9" height="15" fill="#39d353"><animate attributeName="opacity" values="1;1;0;0;1" begin="3.15s" dur="1.1s" repeatCount="indefinite"/></rect></g>
+</svg>

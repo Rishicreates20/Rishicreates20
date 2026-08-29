@@ -1,0 +1,49 @@
+name: Refresh contribution heatmap
+
+# Re-scrapes your public contribution calendar and re-renders the animated
+# heatmap SVG once a day (and on demand). Only the heatmap changes daily;
+# the ASCII portrait and info card are static, so they are generated once
+# locally and committed by you.
+
+on:
+  schedule:
+    - cron: "17 6 * * *"      # 06:17 UTC daily (offset so it isn't on the hour)
+  workflow_dispatch:           # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write              # needed to commit the refreshed SVG
+
+concurrency:
+  group: refresh-heatmap
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Render heatmap
+        run: |
+          python scripts/generate_heatmap.py "${{ github.repository_owner }}" assets/heatmap.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/heatmap.svg data/contrib.json
+          if git diff --quiet --cached; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh contribution heatmap [skip ci]"
+            git push
+          fi

@@ -1,0 +1,15 @@
+# local render previews
+/preview/
+*.png
+!assets/*.png
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+err.log
+
+# rembg model cache
+.rembg/
+.u2net/

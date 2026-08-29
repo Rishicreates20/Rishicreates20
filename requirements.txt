@@ -1,0 +1,16 @@
+# Full toolchain for regenerating everything locally.
+# The daily GitHub Action only needs requests + beautifulsoup4 (see workflow).
+
+# heatmap scraping
+requests>=2.31
+beautifulsoup4>=4.12
+
+# ASCII portrait pipeline
+Pillow>=10.0
+numpy>=1.24
+opencv-python-headless>=4.8
+rembg>=2.0          # background removal
+onnxruntime>=1.16   # rembg backend
+
+# (optional) local preview of animated SVGs -> PNG
+# playwright>=1.40   then: playwright install chromium
