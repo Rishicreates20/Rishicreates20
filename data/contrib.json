@@ -2,41 +2,6 @@
  "user": "Rishicreates20",
  "days": [
   {
-   "date": "2025-09-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-08",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-09",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-10",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-11",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-13",
-   "level": 0,
-   "count": 0
-  },
-  {
    "date": "2025-09-14",
    "level": 0,
    "count": 0
@@ -1855,8 +1820,13 @@
    "date": "2026-09-12",
    "level": 4,
    "count": 20
+  },
+  {
+   "date": "2026-09-13",
+   "level": 0,
+   "count": 0
   }
  ],
  "total": 336,
- "generated": "2026-09-12T10:46:01.682247Z"
+ "generated": "2026-09-13T11:51:34.368007Z"
 }
