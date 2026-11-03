@@ -40,6 +40,7 @@
 - **[Veilo](https://github.com/Rishicreates20/private-search-buddy)** — a privacy-focused hybrid search engine fusing BM25 keyword retrieval (SQLite FTS5) with dense semantic search via a custom Reciprocal Rank Fusion layer; async crawler behind a FastAPI backend.
 - **Redis Clone (Java)** — an in-memory key-value store modelled on Redis: core data structures, command handling, and TTL-based expiry.
 - **SafeSteel AI** — an LLM evaluation &amp; red-teaming framework; automated adversarial testing across 500+ prompts spanning 6 failure categories, cutting measured violation rate by 61%.
+- **[AMBA 3 APB Slave Verification](https://github.com/Rishicreates20/apb3-slave-sv-verification)** — a SystemVerilog verification suite for an APB3 slave register file: layered class-based testbench (driver, monitor, scoreboard with a golden shadow-register model), 6 SVA protocol checkers, and functional coverage with cross bins; caught and fixed two protocol-timing bugs in the RTL and master BFM.
 
 <div align="center">
 <sub>The heatmap above refreshes itself every day via GitHub Actions — no third-party image services, just self-hosted animated SVG.</sub>
